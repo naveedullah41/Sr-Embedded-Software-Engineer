@@ -18,22 +18,22 @@ Naveed Ullah is a Senior Embedded Linux Engineer with extensive experience in de
 ## Experience
 ### Renie Tech
 - Senior Embedded Linux Engineer  
-   **Dates**: [Include dates] 
-   - [Describe responsibilities and achievements at Renie Tech]
+  **Experience**:  2 years 5 months
+  - [Describe responsibilities and achievements at Renie Tech]
 
 ### Devomech
 - Embedded Engineer  
-   **Dates**: [Include dates] 
+   **Experience**:  2 years 3 months
    - [Describe responsibilities and achievements at Devomech]
 
 ## Education
 - **University of Engineering and Technology (UET), Peshawar**  
   BSc in Electrical Engineering  
-  **Dates**: [Include dates] 
+  **Dates**: 2019
 
 - **Ghulam Ishaq Khan Institute (GIKI)**  
   MSc in Computer Engineering  
-  **Dates**: [Include dates] 
+  **Dates**: 2017
 
 ## Contact Information
 - **Email**: naveedullah41@gmail.com  
